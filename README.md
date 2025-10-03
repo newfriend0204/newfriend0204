@@ -1,10 +1,6 @@
 <!-- 프로필 README.md -->
 <h1 align="center">Hi 👋 I'm newfriend0204</h1>
 
-<p align="center">
-  <em>💻 게임 개발자가 되고 싶어하는 중학생</em>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -55,8 +51,8 @@
 
 ### 📫 Contact  
 - ✉️ Email: [newfrienddeveloper@gmail.com](mailto:newfrienddeveloper@gmail.com)  
-- 📝 Youtube: [https://www.youtube.com/@%EC%83%88%EB%A1%9C%EC%9A%B4%EC%B9%9C%EA%B5%AC](https://www.youtube.com/@%EC%83%88%EB%A1%9C%EC%9A%B4%EC%B9%9C%EA%B5%AC)  
+- 📝 Youtube: [https://www.youtube.com/@새로운친구](https://www.youtube.com/@%EC%83%88%EB%A1%9C%EC%9A%B4%EC%B9%9C%EA%B5%AC)  
 
 ---
 
-⭐️ *“계속 만들고, 계속 배웁니다.”*  
+*“계속 만들고, 계속 배웁니다.”*  
