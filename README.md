@@ -12,16 +12,16 @@
 ### 📌 Featured Projects
 
 #### 🔹 Project Epsilon (멀티플레이 FPS 게임)
-🎯 실시간 서버로 작동하는 데스매치 형식의 FPS 게임  
+🕹️ 실시간 서버로 작동하는 데스매치 형식의 FPS 게임  
 
-![Project Epsilon](./Project-Epsilon.gif)
+![Project Epsilon](./Project%20Epsilon.gif)
 
 ---
 
 #### 🔹 Hell On Earth (탑다운 로그라이크 슈팅 게임)
 🕹️ 여러가지 무기와 적이 있는 흥미로운 로그라이크 게임  
 
-![Hell On Earth](./Hell-On-Earth.gif)
+![Hell On Earth](./Hell%20On%20Earth.gif)
 
 ---
 
@@ -55,4 +55,4 @@
 
 ---
 
-*“계속 만들고, 계속 배웁니다.”*  
+*계속 만들고, 계속 배웁니다.*  
