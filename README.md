@@ -18,14 +18,14 @@
 #### 🔹 Project Epsilon (멀티플레이 FPS 게임)
 🎯 실시간 서버로 작동하는 데스매치 형식의 FPS 게임  
 
-![Project Epsilon](https://i.imgur.com/fVziqSs.gif)
+<video src="Hell%20On%20Earth.mp4" width="640" autoplay loop muted></video>
 
 ---
 
 #### 🔹 Hell On Earth (탑다운 로그라이크 슈팅 게임)
 🕹️ 여러가지 무기와 적이 있는 흥미로운 로그라이크 게임  
 
-![Hell-On-Earth](https://i.imgur.com/qfdfoaw.gif)
+<video src="Project%20Epsilon.mp4" width="640" autoplay loop muted></video>
 
 ---
 
