@@ -3,29 +3,29 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🎮 파이썬과 유니티 등등을 사용한 게임 개발
 - 🖥️ 여러가지 알고리즘을 배우는 중
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 #### 🔹 [Project Epsilon (멀티플레이 FPS 게임)](https://github.com/newfriend0204/Project-Epsilon)
-🕹️ 실시간 서버로 작동하는 데스매치 형식의 FPS 게임  
+실시간 서버로 작동하는 데스매치 형식의 FPS 게임  
 
 ![Project Epsilon](./Project%20Epsilon.gif)
 
 ---
 
 #### 🔹 [Hell On Earth (탑다운 로그라이크 슈팅 게임)](https://github.com/newfriend0204/Hell-On-Earth)
-🕹️ 여러가지 무기와 적이 있는 흥미로운 로그라이크 게임  
+여러가지 무기와 적이 있는 흥미로운 로그라이크 게임  
 
 ![Hell On Earth](./Hell%20On%20Earth.gif)
 
 ---
 
-### 🛠 Tech Stack  
+### Tech Stack  
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=newfriend0204&show_icons=true&theme=tokyonight" />
@@ -49,10 +49,7 @@
 
 ---
 
-### 📫 Contact  
-- ✉️ Email: [newfrienddeveloper@gmail.com](mailto:newfrienddeveloper@gmail.com)  
-- 📝 Youtube: [https://www.youtube.com/@새로운친구](https://www.youtube.com/@%EC%83%88%EB%A1%9C%EC%9A%B4%EC%B9%9C%EA%B5%AC)  
-
----
-
-*계속 만들고, 계속 배웁니다.*  
+### Contact  
+- Email: [newfrienddeveloper@gmail.com](mailto:newfrienddeveloper@gmail.com)  
+- Youtube: [https://www.youtube.com/@새로운친구](https://www.youtube.com/@%EC%83%88%EB%A1%9C%EC%9A%B4%EC%B9%9C%EA%B5%AC)  
+ 
